@@ -1,6 +1,6 @@
-You can access to back-end side of this project from here: [Customer Satisfaction Survey.](https://github.com/Sillyon/customer-satisfaction-survey) 
+You can access to back-end side of this project from here: [Customer Satisfaction Survey.](https://github.com/yarlagaddajeevika/customer-survey-backend.git) 
 
-# Customer Satisfaction Survey UI Project
+# Customer Survey UI Project
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -67,9 +67,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/ad
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
 
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
 ## ScreenShots
 
@@ -86,5 +83,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 <img src="https://i.ibb.co/DGWR4yC/List-answers.png">
 
 
-You can access to back-end side of this project from here: [Customer Satisfaction Survey.](https://github.com/Sillyon/customer-satisfaction-survey) 
+You can access to back-end side of this project from here: [Customer Satisfaction Survey.](https://github.com/yarlagaddajeevika/customer-survey-backend.git) 
 
